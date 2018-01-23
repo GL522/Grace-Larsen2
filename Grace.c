@@ -7,7 +7,7 @@
 #include<stdio.h>
 
 int main (int argc, char **argv) {
-	printf("Grace Larsen\n");
+	printf("Grace Larsen Logan Altman\n");
 	
 	return 0;
 }
